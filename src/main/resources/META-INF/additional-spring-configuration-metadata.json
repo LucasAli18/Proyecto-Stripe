@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "stripe.endpoint.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'stripe.endpoint.secret'"
+  },
+  {
+    "name": "stripe.secret.key",
+    "type": "java.lang.String",
+    "description": "A description for 'stripe.secret.key'"
+  }
+]}
